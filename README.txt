@@ -1,6 +1,5 @@
 try something 
-creating a new branch is quick & simple.
 
 new
-tt
+ttdh
 add some diff
